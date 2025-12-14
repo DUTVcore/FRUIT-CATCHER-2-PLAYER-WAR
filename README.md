@@ -93,5 +93,5 @@ This project was created for educational and entertainment purposes. Happy Codin
 
 ## 👥 Authors
 Project developed by:
-* **DUTVcore**
+* **DUTVcore (PHAM LE NAM BINH)**
 * **TranHuuLai**
